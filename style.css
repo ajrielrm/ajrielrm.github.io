@@ -1,0 +1,169 @@
+    body{
+        background-color: #4B56D2;
+        background-image:url('drawable/bg.gif');
+        background-size: auto ;
+
+    }
+
+  
+
+
+    /* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #181D31;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #E5B8F4;
+  }
+  
+
+    .star{
+        margin-left: -200px;
+        margin-top: -800px;
+        width: 120%;
+        height: auto;
+    
+    }
+
+    .dash-container{
+        width: 900px;
+        height: 400px;
+        background-color: #181D31;
+        position: absolute;
+        left: 20%;
+        top: 20%;
+        border-radius: 34px; 
+        
+    
+    }
+
+    .us{
+        height: auto;
+        width: 300px;
+        margin-top: 8%;
+        margin-left: 7%;
+        margin-right: -50px;
+    }
+
+    .cont{
+        display: flex;
+    }
+
+    .text-upper{
+        margin-right: px;
+        margin-top: 8%;
+        
+    }
+
+    .text-upper h1{
+        margin-left: 100px;
+        color: #E5B8F4;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size: 30px;
+        align-content: center;
+    }
+
+ .hi{
+    margin-left: 45px;
+ }
+
+ .spotify{
+    margin-left: 820px;
+    margin-bottom: -60px;
+ }
+
+ .text-upper p{
+    margin-left : 100px;
+    color: #E5B8F4;
+    font-family: 'Poppins', sans-serif;
+ }
+
+ .link{
+    margin-top: 50px;
+    display: flex;
+    gap: 2rem;
+    margin-left: 35%;
+ }
+
+ .link a{
+    color: #E5B8F4;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: #E5B8F4;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    align-content: center;
+}
+
+.title h1{
+    font-size: 30px;
+    font-weight: 600;
+
+
+}
+
+ .stitle{
+    display: flex;
+    justify-content: center;
+    color: #E5B8F4;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    align-content: center;
+    margin-top: -30px;
+ }
+
+.stitle h1{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.poet-container{
+    width: 900px;
+    height: 1100px;
+    background-color: #181D31;
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 34px; 
+    margin-bottom: 3%;
+    
+}
+
+.img{
+    width: 900px;
+}
+
+.text{
+    color: #E5B8F4;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+
+.poet-container-nov{
+    width: 900px;
+    height: 1250px;
+    background-color: #181D31;
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 34px; 
+    margin-bottom: 3%;
+
+}
+
